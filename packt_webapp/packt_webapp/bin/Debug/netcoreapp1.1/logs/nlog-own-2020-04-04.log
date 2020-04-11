@@ -1,0 +1,293 @@
+2020-04-04 12:13:24.1419|500|Global exception logger|ERROR|  The following errors occurred with attribute routing information:
+
+Error 1:
+For action: 'packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)'
+Error: While processing template 'api/[customers]', a replacement value for the token 'customers' could not be found. Available tokens: 'action, controller'. The following errors occurred with attribute routing information:
+
+Error 1:
+For action: 'packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)'
+Error: While processing template 'api/[customers]', a replacement value for the token 'customers' could not be found. Available tokens: 'action, controller'.|url: |action: 
+2020-04-04 12:13:31.2596|500|Global exception logger|ERROR|  The following errors occurred with attribute routing information:
+
+Error 1:
+For action: 'packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)'
+Error: While processing template 'api/[customers]', a replacement value for the token 'customers' could not be found. Available tokens: 'action, controller'. The following errors occurred with attribute routing information:
+
+Error 1:
+For action: 'packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)'
+Error: While processing template 'api/[customers]', a replacement value for the token 'customers' could not be found. Available tokens: 'action, controller'.|url: |action: 
+2020-04-04 12:13:35.5711|500|Global exception logger|ERROR|  The following errors occurred with attribute routing information:
+
+Error 1:
+For action: 'packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)'
+Error: While processing template 'api/[customers]', a replacement value for the token 'customers' could not be found. Available tokens: 'action, controller'. The following errors occurred with attribute routing information:
+
+Error 1:
+For action: 'packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)'
+Error: While processing template 'api/[customers]', a replacement value for the token 'customers' could not be found. Available tokens: 'action, controller'.|url: |action: 
+2020-04-04 12:13:36.4125|500|Global exception logger|ERROR|  The following errors occurred with attribute routing information:
+
+Error 1:
+For action: 'packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)'
+Error: While processing template 'api/[customers]', a replacement value for the token 'customers' could not be found. Available tokens: 'action, controller'. The following errors occurred with attribute routing information:
+
+Error 1:
+For action: 'packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)'
+Error: While processing template 'api/[customers]', a replacement value for the token 'customers' could not be found. Available tokens: 'action, controller'.|url: |action: 
+2020-04-04 12:13:41.7578|500|Global exception logger|ERROR|  The following errors occurred with attribute routing information:
+
+Error 1:
+For action: 'packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)'
+Error: While processing template 'api/[customers]', a replacement value for the token 'customers' could not be found. Available tokens: 'action, controller'. The following errors occurred with attribute routing information:
+
+Error 1:
+For action: 'packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)'
+Error: While processing template 'api/[customers]', a replacement value for the token 'customers' could not be found. Available tokens: 'action, controller'.|url: |action: 
+2020-04-04 14:51:20.5535|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:51:20.6053|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:51:21.1087|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:51:21.1496|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:51:21.1914|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:51:21.1894|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:51:21.1894|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:51:21.2598|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:51:21.2508|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:51:21.1894|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:51:21.2857|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:51:21.2857|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:51:21.2857|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:51:21.2697|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:51:21.3166|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:51:21.3804|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:51:21.4921|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:51:21.4921|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:51:21.4921|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:51:21.5201|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:51:21.5201|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:51:21.7386|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:52:19.4732|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:52:23.1762|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:52:23.4669|500|Global exception logger|ERROR|  Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp) Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)|url: |action: 
+2020-04-04 14:53:17.1075|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:53:17.1494|500|Global exception logger|ERROR|  Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp) Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)|url: |action: 
+2020-04-04 14:54:20.0118|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 14:54:20.0656|500|Global exception logger|ERROR|  Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp) Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)|url: |action: 
+2020-04-04 15:01:02.9964|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:01:03.2239|500|Global exception logger|ERROR|  Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp) Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)|url: |action: 
+2020-04-04 15:09:26.7988|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:09:27.2194|500|Global exception logger|ERROR|  Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp) Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)|url: |action: 
+2020-04-04 15:09:29.9609|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:09:30.0018|500|Global exception logger|ERROR|  Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp) Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)|url: |action: 
+2020-04-04 15:09:36.5273|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:09:36.5742|500|Global exception logger|ERROR|  Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp) Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)|url: |action: 
+2020-04-04 15:13:08.3416|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:13:08.7737|500|Global exception logger|ERROR|  Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp) Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)|url: |action: 
+2020-04-04 15:13:10.7519|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:13:10.7888|500|Global exception logger|ERROR|  Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp) Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)|url: |action: 
+2020-04-04 15:13:11.7592|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:13:11.7971|500|Global exception logger|ERROR|  Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp) Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)|url: |action: 
+2020-04-04 15:13:12.4488|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:13:12.4728|500|Global exception logger|ERROR|  Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp) Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)|url: |action: 
+2020-04-04 15:13:13.0611|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:13:13.0980|500|Global exception logger|ERROR|  Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp) Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)|url: |action: 
+2020-04-04 15:20:28.5624|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:20:28.9495|500|Global exception logger|ERROR|  Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp) Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)|url: |action: 
+2020-04-04 15:20:33.1873|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:20:33.2093|500|Global exception logger|ERROR|  Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp) Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)|url: |action: 
+2020-04-04 15:20:34.6417|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:20:34.6616|500|Global exception logger|ERROR|  Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp) Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)|url: |action: 
+2020-04-04 15:46:08.6946|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:09.0238|500|Global exception logger|ERROR|  Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp) Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)|url: |action: 
+2020-04-04 15:46:16.8641|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:17.6962|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:17.6962|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:17.7410|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:17.7759|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:17.7410|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:17.7759|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:17.7410|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:17.8019|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:17.8019|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:17.8178|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:17.8557|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:17.8637|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:17.8637|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:17.8866|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:17.8866|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:17.8966|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:17.9126|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:17.9265|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:17.8637|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:18.1370|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:22.3819|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:22.4393|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:22.4423|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:22.4423|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:22.4423|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:22.4393|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:22.5022|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:22.5041|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:22.5041|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:22.5041|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:22.5391|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:22.5301|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:22.5391|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:22.6139|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:22.5859|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:22.6139|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:22.6498|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:22.5760|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:22.6498|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:22.6498|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:22.7266|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:26.3570|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:33.1224|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 15:46:33.1583|500|Global exception logger|ERROR|  Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp) Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)|url: |action: 
+2020-04-04 16:00:45.6020|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 16:00:45.7247|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 16:00:45.7646|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 16:00:45.7696|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 16:00:45.8344|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 16:00:45.7646|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 16:00:45.8633|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 16:00:45.8633|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 16:00:45.8015|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 16:00:45.8972|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 16:00:45.8972|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 16:00:45.8015|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 16:00:45.9122|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 16:00:45.9421|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 16:00:45.9421|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 16:00:46.0219|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 16:00:46.0378|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 16:00:46.0648|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 16:00:46.0827|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 16:00:46.0827|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 16:00:46.2323|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 16:00:53.2821|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 16:00:53.5009|500|Global exception logger|ERROR|  Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp) Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)|url: |action: 
+2020-04-04 16:16:13.3578|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 16:16:13.6982|500|Global exception logger|ERROR|  Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp) Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)|url: |action: 
+2020-04-04 16:16:36.0005|7|IdentityServer4.AccessTokenValidation.Infrastructure.NopAuthenticationMiddleware|INFO|  Bearer was not authenticated. Failure message: No token found. |url: |action: 
+2020-04-04 16:16:36.0394|500|Global exception logger|ERROR|  Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp) Multiple actions matched. The following actions matched route data and had all constraints satisfied:
+
+packt_webapp.Controllers.CustomersController.GetAllCustomers (packt_webapp)
+packt_webapp.Controllers.Customers2Controller.GetAllCustomers (packt_webapp)|url: |action: 
+2020-04-04 16:53:40.4083|500|Global exception logger|ERROR|  Unable to resolve service for type 'packt_webapp.Entities.DatabaseContext' while attempting to activate 'packt_webapp.Repositories.CustomerRepository'. Unable to resolve service for type 'packt_webapp.Entities.DatabaseContext' while attempting to activate 'packt_webapp.Repositories.CustomerRepository'.|url: |action: 

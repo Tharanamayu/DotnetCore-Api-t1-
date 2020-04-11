@@ -1,0 +1,32 @@
+2020-04-03 12:06:29.6351|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 12:06:29.6630|0|packt_webapp.Controllers.CustomersController|INFO|  Getallcust |url: |action: 
+2020-04-03 12:11:40.0313|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 12:11:40.0623|0|packt_webapp.Controllers.CustomersController|INFO|  Getallcust |url: |action: 
+2020-04-03 13:14:12.6493|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 13:15:32.1566|500|Global exception logger|ERROR|  Test Test|url: |action: 
+2020-04-03 15:06:11.9344|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 15:06:39.8216|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 15:06:43.4305|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 15:06:44.8680|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 15:06:45.8045|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 15:06:47.0233|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 15:07:24.6036|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 15:07:43.2612|500|Global exception logger|ERROR|  Test Test|url: |action: 
+2020-04-03 15:07:54.8954|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 15:08:00.7211|500|Global exception logger|ERROR|  Test Test|url: |action: 
+2020-04-03 15:12:06.5713|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 15:13:24.4132|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 15:13:28.6539|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 15:13:32.2471|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 15:13:37.2800|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 15:15:12.6437|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 15:15:16.9593|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 15:15:18.6560|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 15:15:19.5202|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 15:15:20.3602|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 15:15:20.9576|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 15:15:21.3675|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 15:15:21.6767|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 15:15:21.9938|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 15:15:22.6172|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
+2020-04-03 15:15:43.8084|0|packt_webapp.Controllers.CustomersController|INFO|  customerscontroller started |url: |action: 
